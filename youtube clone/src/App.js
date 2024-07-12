@@ -31,5 +31,4 @@ const App = () => {
     </AppContext>
   );
 };
-
 export default App;
